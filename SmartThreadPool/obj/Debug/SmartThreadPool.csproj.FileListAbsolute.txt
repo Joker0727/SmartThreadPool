@@ -1,0 +1,12 @@
+D:\work\project\feeling\FeelingApplication\SmartThreadPool\obj\Debug\SmartThreadPool.csprojAssemblyReference.cache
+D:\work\project\feeling\FeelingApplication\SmartThreadPool\obj\Debug\SmartThreadPool.csproj.CoreCompileInputs.cache
+D:\work\project\feeling\FeelingApplication\SmartThreadPool\bin\Debug\SmartThreadPool.dll
+D:\work\project\feeling\FeelingApplication\SmartThreadPool\bin\Debug\SmartThreadPool.pdb
+D:\work\project\feeling\FeelingApplication\SmartThreadPool\obj\Debug\SmartThreadPool.dll
+D:\work\project\feeling\FeelingApplication\SmartThreadPool\obj\Debug\SmartThreadPool.pdb
+F:\Work\MyProject\新体感\feeling\SmartThreadPool\bin\Debug\SmartThreadPool.dll
+F:\Work\MyProject\新体感\feeling\SmartThreadPool\bin\Debug\SmartThreadPool.pdb
+F:\Work\MyProject\新体感\feeling\SmartThreadPool\obj\Debug\SmartThreadPool.csproj.CoreCompileInputs.cache
+F:\Work\MyProject\新体感\feeling\SmartThreadPool\obj\Debug\SmartThreadPool.dll
+F:\Work\MyProject\新体感\feeling\SmartThreadPool\obj\Debug\SmartThreadPool.pdb
+F:\Work\MyProject\新体感\feeling\SmartThreadPool\obj\Debug\SmartThreadPool.csprojAssemblyReference.cache
